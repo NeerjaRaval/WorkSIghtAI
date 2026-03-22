@@ -7,6 +7,7 @@ WorkSight AI is a real-time computer vision system designed to automate workforc
 It combines face recognition, gesture analysis, and object detection into a unified, low-latency pipeline capable of running on standard CPU hardware.
 
 ==============Key Features==============
+
     • Face Recognition — Real-time employee identification & tracking
     • Behavior Analysis — Gesture/posture detection for compliance monitoring
     • Object Detection — Identifies critical/restricted items
